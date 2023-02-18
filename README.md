@@ -14,4 +14,4 @@
 
 О себе: *Я учусь в Netology*
 
-![Alt text](../%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/1.jpg)
+![Foto](https://www.rgo.ru/sites/default/files/styles/head_image_article/public/node/49533/2131465.jpg?itok=kvFLhXla)
